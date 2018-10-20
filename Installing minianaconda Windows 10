@@ -1,0 +1,21 @@
+Installing MiniAnaconda
+1.	Download the installer:
+•	Miniconda installer for Windows. or
+•	Anaconda installer for Windows.
+2.	After finish downloaded, Double-click the .exe file.
+3.	Follow the instructions on the screen.
+If you are unsure about any setting, accept the defaults. You can change them later.
+When installation is finished, from the Start menu, open the Anaconda Prompt.
+4.	To test your installation, in your Terminal window or Anaconda Prompt, run the command conda list.
+For a successful installation, a list of installed packages appears. Great Job !
+
+Updating conda
+1.	Open your Anaconda Prompt from the start menu.
+2.	Navigate to the anaconda directory.
+3.	Run conda update conda.
+ 
+Uninstalling conda
+1.	In the Windows Control Panel, click Add or Remove Program.
+2.	Select Python X.X (Miniconda), where X.X is your version of Python.
+3.	Click Remove Program.
+
